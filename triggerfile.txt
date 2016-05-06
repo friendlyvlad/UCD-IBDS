@@ -1,2 +1,2 @@
 UrbanCode Deploy - IBM Bluemix Devops Services Deployment Pipeline integration
-Starting deployment at 01:41:12 PM on 06/05/2016, please wait...
+Starting deployment at 01:46:05 PM on 06/05/2016
